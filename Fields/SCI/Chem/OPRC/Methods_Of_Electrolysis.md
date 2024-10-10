@@ -10,7 +10,15 @@
 ## Scenario 2 - Na,F,F2
 - Same with a solution(aquas solution, water for example) with NaF (sodium Fluoride) if you perform electrolysis on this solution, you get H hydrogen and F fluorine, which, if come into contact with water (inevitable) it forms HF(hydrogen fluoride, aka? HydrogenFluroricacid(..))
 
-## Scenario 3 (not about water but about Posphorus compounds) PCl {3,5}
+
+</details>
+
+
+
+<details>
+  <summary>Section 2 - Posphorus compounds </summary>
+
+## Scenario 3 Posphorus compounds PCl {3,5}
 Red phosphorus and Chlorine, would make phosphorus penta/tri chloride, depending on the circumstances
 
 - Penta: IFF cl2 is in excess.
@@ -18,20 +26,8 @@ Red phosphorus and Chlorine, would make phosphorus penta/tri chloride, depending
 
 P+Cl₂=PCl₃(tri), or PCl₅(penta)
 
-## Further Reading
-- https://en.wikipedia.org/wiki/Phosphorus_trichloride
-- https://pubchem.ncbi.nlm.nih.gov/compound/Phosphorus-trichloride
-- https://en.wikipedia.org/wiki/Phosphorus_pentachloride
-- https://en.wikipedia.org/wiki/Chlorine
-- https://en.wikipedia.org/wiki/Phosphorus
-- https://www.ncbi.nlm.nih.gov/books/NBK499860/
-
-</details>
 
 
-
-<details>
-  <summary>Section 2 - A </summary>
 
 </details>
 
@@ -49,5 +45,20 @@ P+Cl₂=PCl₃(tri), or PCl₅(penta)
 <details>
   <summary>Section 4 - A </summary>
 
+</details>
+
+
+
+
+<details>
+  <summary>Section Z - References </summary>
+
+## Further Reading
+- https://en.wikipedia.org/wiki/Phosphorus_trichloride
+- https://pubchem.ncbi.nlm.nih.gov/compound/Phosphorus-trichloride
+- https://en.wikipedia.org/wiki/Phosphorus_pentachloride
+- https://en.wikipedia.org/wiki/Chlorine
+- https://en.wikipedia.org/wiki/Phosphorus
+- https://www.ncbi.nlm.nih.gov/books/NBK499860/
 </details>
 
