@@ -1,6 +1,6 @@
 # CHEMISTRY NOTES
 
-- ⚠️ NOTE DUE TO THE NATURE OF THIS CHEMISTRY TOPIC (OPRC) THIS IS ONLY THEORETICALLY SPEAKING. ⚠️
+- ⚠️ NOTE DUE TO THE NATURE OF THIS CHEMISTRY TOPIC (OPRC) THIS IS ONLY THEORETICALLY SPEAKING ⚠️
 - ⚠️ I am NOT a chemist or a student at any college ⚠️
 - ⚠️ I just want to learn because it's interesting ⚠️
 
